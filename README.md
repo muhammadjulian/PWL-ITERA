@@ -59,7 +59,7 @@ ubah ke
 |Vicko Pratama Ibrahim  | 14116043 | https://github.com/vickokakuse21/14116043-PWL |
 |Muhammad Oktri Saputra | 14116114 | https://github.com/OktriSaputra/14116114-PWL |
 |Afifah Dwikirani | 14117105 | https://github.com/AfifahDk/14117105-PWL|
-
+|Muhammad Julian  | 14116165  | https://github.com/muhammadjulian/prak2_PWL |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
